@@ -6,7 +6,7 @@ My purpose for creating this app was to learn how to stylize the elements on the
 
  I used AI to help me learn the syntax for Android Studio but I did not directly copy anything that it generated.
 
-[Software Demo Video](https://www.youtube.com/watch?v=0RdO392eaqM)
+[Software Demo Video](https://youtu.be/Gsqrk_pSKzo)
 
 # Development Environment
 
