@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">StoryOfUs</string>
+    <string name="app_name">ArtSpace</string>
+    <string name="mission_end">You\'re Leaving:(</string>
+    <string name="mission_friends_date">01/24/2022</string>
+    <string name="welcome">Welcome to the Mesa District!</string>
+    <string name="welcome_date">09/21/2021</string>
+    <string name="pen_pals">Pen Pals</string>
+    <string name="pen_pals_date">05/01/2022</string>
+    <string name="im_home">I\'m Home!</string>
+    <string name="im_home_date">08/24/2022</string>
+    <string name="engaged">Engaged!</string>
+    <string name="engaged_date">10/20/2022</string>
+    <string name="married">We\'re married!</string>
+    <string name="married_date">12/28/2022</string>
+    <string name="welcome_details">You were transferred into the Mesa District
+        for the last few months of your mission. I got called to be the district leader
+        at the same time. That meant I was able to talk to you every day!:)</string>
+    <string name="leaving_details">You finished your mission at the end of January
+        and I was super sad for you to leave! It was exciting to be able to start emailing
+        you as a friend instead of only talking as missionaries.</string>
+    <string name="pen_pals_details">During the next several months, we emailed,
+        sent super long voice recordings, and wrote letters to each other:)</string>
+    <string name="im_home_details">I came home at the end of August and guess who drove
+        down for the homecoming! I drove up to your house in Idaho a few days later and
+        suddenly we were dating… ;)</string>
+    <string name="engaged_details">After just two months of dating, I proposed by showing
+        up at your house at night with "mail" for you just like I did in the mission… Except
+        this time it was a wedding ring.</string>
+    <string name="married_details">We got married in the Bountiful, Utah temple on December
+        28th, 2022. We stayed at an AirBnB in Bountiful for a few days and then moved up to our
+        new apartment in Rexburg, ID.</string>
 </resources>
